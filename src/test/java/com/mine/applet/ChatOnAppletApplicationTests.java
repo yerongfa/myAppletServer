@@ -1,4 +1,4 @@
-package com.mine.applet.ChatOnApplet;
+package com.mine.applet;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
